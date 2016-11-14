@@ -305,10 +305,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="..\..\temporary_formula_stuff.txt" />
-    <Text Include="..\..\Stuff_To_Do.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="..\..\source\CoreMath.cpp" />
     <ClCompile Include="..\..\source\mat2x2.cpp" />
     <ClCompile Include="..\..\source\mat3x3.cpp" />
